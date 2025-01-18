@@ -1,1 +1,2 @@
-# Portfolio
+
+Analyzed a dataset of 10,000+ orders using Python (Pandas) and SQL Server to extract actionable insights. Key findings include identifying the top 10 revenue-generating products, conducting month-over-month growth comparisons for 2022-2023, and uncovering the highest-selling products by region. Leveraged SQL for advanced queries and SQLAlchemy for seamless integration. This project enhanced my skills in data preprocessing, SQL queries, and data-driven decision-making, providing valuable insights to optimize retail strategies.
